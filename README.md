@@ -6,7 +6,7 @@
 ---
 
 [Cdli Mobile App](https://cdli.ucla.edu/?q=cdli-tablet) that combines text and images of cuneiform inscriptions, of related archaeological artifacts, and of the equipment and techniques employed by specialists to capture, digitally preserve and disseminate the cultural heritage of the ancient Near East.
-Currently, We are having cdli Android App published on playstore. We are expanding from native to hybrid by introduing Flutter App. This year Gsoc we are focusing on developing hybrid app with more features and also good in terms of UI/UX.
+Currently, We are having cdli Android App published on playstore. We are expanding from native to hybrid by introduing Flutter App. This year Gsoc we are focusing on developing hybrid app with more features and also good in terms of UI/UX
 
 ---
 
