@@ -10,8 +10,10 @@ Currently, We are having cdli Android App published on playstore. We are expandi
 
 ---
 
-### GIF
-<img src="https://github.com/cdli-gh/flutter_app/raw/master/docs/gif.gif" width="200" height="400" />
+### Flutter Demo Application
+This is my first contribution to this Open Source project for Revamp CDLI tablet apps (iOS and Android) project application. Please click on the link below for a preview of this demo app:
+
+https://drive.google.com/file/d/15KIfDcYSWU7RXaxqrtuj9xRrZ1Hxt5of/view?usp=sharing
 
 ---
 
