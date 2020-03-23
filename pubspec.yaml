@@ -12,6 +12,7 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
+  share: ^0.6.3+6
 
 
 # For information on the generic Dart part of this file, see the
@@ -31,7 +32,7 @@ flutter:
   #  - images/a_dot_ham.jpeg
 
   assets:
-     - assets/logo.png
+     - assets/images/img.jpg
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.io/assets-and-images/#resolution-aware.
