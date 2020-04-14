@@ -1,6 +1,5 @@
 # CDLI Flutter App
 
-<a href='https://play.google.com/store/apps/details?id=com.cdlisolutions.cdli.cdlitablet' target='_blank' align="right"><img align="right" height='36' src='https://s20.postimg.org/muzx3w4jh/google_play_badge.png' /></a>
 ### CDLI_Tablet Android
 
 ---
@@ -20,9 +19,3 @@ https://drive.google.com/file/d/15KIfDcYSWU7RXaxqrtuj9xRrZ1Hxt5of/view?usp=shari
 ## License
 
 This project is will be licensed under the GNU General Public License v3. A copy of [LICENSE]() is to be present along with the source code.
-
----
-
-## Maintainers
-The project is maintained by
- - List announce shortly
